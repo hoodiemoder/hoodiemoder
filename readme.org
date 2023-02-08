@@ -3,8 +3,8 @@
 git sleep repeat :3
 #+end_src
 #+html: <div align="center">
-#+html:     <img src="https://github-readme-stats.vercel.app/api?username=hoodiemoder&theme=github_dark" width="512px">
+#+html:     <img src="https://github-readme-stats.vercel.app/api?username=hoodiemoder&theme=transparent" width="512px">
 #+html: </div>
 #+html: <div align="center">
-#+html:     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoodiemoder&theme=github_dark&layout=compact" width="512px")
+#+html:     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoodiemoder&theme=transparent&layout=compact" width="512px")
 #+html: </div>
