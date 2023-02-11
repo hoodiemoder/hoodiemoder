@@ -12,6 +12,6 @@ feel free to contact me at hoodiemoder@pm.me
 - gpg key: [[./hoodiemoder-10y.asc][hoodiemoder-10y.asc]]
  
 #+html: <div align="center">
-#+html:     <img src="https://github-readme-stats.vercel.app/api?username=hoodiemoder&theme=transparent" height="128/1600%">
-#+html:     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoodiemoder&theme=transparent&layout=compact" height="128/1600%")
+#+html:     <img src="https://github-readme-stats.vercel.app/api?username=hoodiemoder&theme=transparent" height="192/1600%">
+#+html:     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoodiemoder&theme=transparent&layout=compact" height="192/1600%")
 #+html: </div>
