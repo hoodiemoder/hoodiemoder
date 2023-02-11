@@ -1,10 +1,17 @@
 * hoodiemoder
 #+begin_src
-git sleep repeat :3
-#+end_src
+Hiya, I'm hoodiemoder.
+
+Interested in programming, electronics, graphic design and cute things.
+
+Learning how things work and trying to make it how I like it.
+ 
+I speak English, Spanish and Chinese :D, feel free to contact me at hoodiemoder@pm.me
+ #+end_src
+ 
+gpg: [hoodiemoder-10y.asc[hoodiemoder-10y.asc]]
+ 
 #+html: <div align="center">
-#+html:     <img src="https://github-readme-stats.vercel.app/api?username=hoodiemoder&theme=transparent" width="512px">
-#+html: </div>
-#+html: <div align="center">
-#+html:     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoodiemoder&theme=transparent&layout=compact" width="512px")
+#+html:     <img src="https://github-readme-stats.vercel.app/api?username=hoodiemoder&theme=transparent" width="384/600%">
+#+html:     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoodiemoder&theme=transparent&layout=compact" width="384/600%")
 #+html: </div>
